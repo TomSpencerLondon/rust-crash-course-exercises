@@ -1,0 +1,1 @@
+/Users/tomspencer/Desktop/rust_crash_course/src/exercise/c_simple_types/target/debug/ding_machine: /Users/tomspencer/Desktop/rust_crash_course/src/exercise/c_simple_types/src/lib.rs /Users/tomspencer/Desktop/rust_crash_course/src/exercise/c_simple_types/src/main.rs
